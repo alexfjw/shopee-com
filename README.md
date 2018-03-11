@@ -1,11 +1,11 @@
-## Throw your files into data/
+## README
 
-It should have the following structure
-
+Throw your files into ./data
+This project should have the following structure
 .  
 ├── data  
-│   ├── test  
-│   └── train  
+│   ├── test  (contains 1.png, 2.png, etc)  
+│   └── train  (contains folders for each category)  
 └── fastai (symlink to your fastai location)  
 
 Just dump your notebooks in root, following the following convention:
