@@ -1,11 +1,12 @@
-1) throw your files into data/
+## Throw your files into data/
 
 It should have the following structure
-.
-├── data
-│   ├── test
-│   └── train
-└── fastai (symlink to your fastai location)
+
+.  
+├── data  
+│   ├── test  
+│   └── train  
+└── fastai (symlink to your fastai location)  
 
 
 Just dump your notebooks in root, following the following convention:
