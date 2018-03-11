@@ -1,6 +1,6 @@
 ## README
 
-Throw your files into ./data
+Throw your files into ./data  
 This project should have the following structure
 .  
 ├── data  
