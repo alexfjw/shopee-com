@@ -16,3 +16,7 @@ e.g `1.0-jqp-initial-data-exploration`.
 A validation set will be up in a bit, we should all use the same set to properly compare model performance
 
 If not using fastai, include some instructions in a readme somewhere
+
+Data sets are available online on a common Google Drive
+Username : flordelamar.kag@gmail.com
+Password : JhL;J+LwD1\ypVS!inuLQWmJ/
