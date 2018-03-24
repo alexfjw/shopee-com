@@ -59,4 +59,5 @@ def noise_gen(noise_typ, image):
 
 img = cv2.imread("C:/Users/chengy/Downloads/Training Images/wrapsnslings/wrapsnslings_1.jpg")
 img = noise_gen("speckle", img)
+#img = cv2.GaussianBlur(img, (11, 11), 0)
 scipy.misc.imsave('outfilespeckle.jpg', img)
