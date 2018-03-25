@@ -3,7 +3,7 @@ import shutil
 from tqdm import tqdm
 
 fp_src = ''
-fp_dst = 'E:/OneDrive - National University of Singapore/Shopee IET Machine Learning/Training Images/'
+fp_dst = ''
 
 dir_src = os.listdir(fp_src)
 
