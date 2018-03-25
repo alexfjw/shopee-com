@@ -36,7 +36,7 @@ for file_to_find in tqdm(files_to_find_array):
 
 print(len(files_original_array))
 
-folder_new = 'tomove'
+folder_new = 'to_move'
 if not os.path.exists(folder_new):
     os.makedirs(folder_new)
 
